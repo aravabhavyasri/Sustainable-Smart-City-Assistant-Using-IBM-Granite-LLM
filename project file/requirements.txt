@@ -1,0 +1,20 @@
+# Frontend
+streamlit
+requests
+
+# Backend
+fastapi
+uvicorn
+
+# Environment & Config
+python-dotenv
+pydantic-settings
+
+# AI & NLP
+sentence-transformers
+pinecone-client
+
+# Data Handling & ML
+scikit-learn
+pandas
+matplotlib
